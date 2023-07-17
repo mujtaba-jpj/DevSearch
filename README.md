@@ -4,7 +4,7 @@ Sourcode and Resources for Django DevSearch
 
 
 # Installation
-* 1 - clone repo https://github.com/divanov11/Django-2021
+* 1 - clone repo https://github.com/mujtaba-jpj/DevSearch.git
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname
@@ -37,15 +37,15 @@ Sourcode and Resources for Django DevSearch
 * Django REST Framework
 
 # Home Page
-<img src="./resources/images/Devsearch Home.jpg">  
+<img src="DevSearch/resources/images/Devsearch Home.jpg">  
 
 
 # Projects Page
-<img src="./resources/images/DevSearch Projects.jpg">  
+<img src="DevSearch/resources/images/DevSearch Projects.jpg">  
 
 # Profile Page
-<img src="./resources/images/Devsearch Profile.jpg">  
+<img src="DevSearch/resources/images/Profile2.png">  
 
 # User Inbox
-<img src="./resources/images/Devsearch Inbox.jpg">  
+<img src="DevSearch/resources/images/Devsearch Inbox.jpg">  
 
