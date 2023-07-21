@@ -1,6 +1,5 @@
 # DevSearch
-Sourcode and Resources for Django DevSearch
-
+DevSearch is a cutting-edge web platform built entirely on Django, offering a dynamic and user-friendly environment that empowers developers to showcase their projects, collaborate with like-minded peers, and gain recognition for their work. With an intuitive front-end design created using various UI kits and frameworks, such as Bootstrap, DevSearch ensures a seamless user experience.
 
 
 # Installation
